@@ -4,7 +4,7 @@ converting them to functions that can be evaluated.
 
 # Example: Creating a Function
 
-```
+```swift
 // Define a string for the math expression
 var expression: String = "x^3+3x^2-4"
 
