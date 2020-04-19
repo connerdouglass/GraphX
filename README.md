@@ -1,6 +1,5 @@
 # What is GraphX
-GraphX is a framework for parsing strings of mathematical expressions and 
-converting them to functions that can be evaluated.
+GraphX is a framework for parsing strings of mathematical expressions and converting them to functions that can be evaluated. I wrote it when I was a junior in high school, so your mileage may vary. It properly handles the order of operations and, parentheses, and some built-in functions (sqrt, sin, cos, etc.)
 
 # Example: Creating a Function
 
@@ -20,10 +19,3 @@ println("f(2) => \(function.getValueAtX(2.0))")
 println("f(4) => \(function.getValueAtX(4.0))")
 println("f(6) => \(function.getValueAtX(6.0))")
 ```
-
-# The To-Do List
-
-~~The most important to-do right now is documenting the code. The number of comments
-in the code is simply sad.~~
-
-
