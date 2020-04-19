@@ -1,5 +1,5 @@
-# What is GraphX
-GraphX is a framework for parsing strings of mathematical expressions and converting them to functions that can be evaluated. I wrote it when I was a junior in high school, so your mileage may vary. It properly handles the order of operations and, parentheses, and some built-in functions (sqrt, sin, cos, etc.)
+# What is grapher-swift
+Grapher-Swift (originally called GraphX when I created it) is a framework for parsing strings of mathematical expressions and converting them to functions that can be evaluated. I wrote it when I was a junior in high school, so your mileage may vary. It properly handles the order of operations and, parentheses, and some built-in functions (sqrt, sin, cos, etc.)
 
 # Example: Creating a Function
 
